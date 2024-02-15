@@ -1,33 +1,184 @@
 {
-  "projects": [
+  "products": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Apple MacBook Pro",
+      "description": "The Apple MacBook Pro is a powerful laptop featuring a stunning Retina display, fast processors, and sleek design. Perfect for professionals and creatives.",
+      "price": 1499.99,
+      "category": "Computers",
+      "brand": "Apple",
+      "image": "https://www.apple.com/v/macbook-pro/p/images/overview/hero_mbp__fp2ma9pz62ea_large.jpg"
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "Samsung Galaxy S21 Ultra",
+      "description": "The Samsung Galaxy S21 Ultra is a flagship smartphone with a stunning 6.8-inch Dynamic AMOLED display, powerful Snapdragon 888 processor, and a versatile quad-camera setup.",
+      "price": 1199.99,
+      "category": "Mobile Phones",
+      "brand": "Samsung",
+      "image": "https://www.samsung.com/us/images/galaxy-s21/overview/s21ultra_5g_hero_kv.jpg"
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "Sony PlayStation 5",
+      "description": "The Sony PlayStation 5 is the next-generation gaming console featuring lightning-fast load times, immersive 3D audio, and stunning 4K graphics. Get ready for the future of gaming.",
+      "price": 499.99,
+      "category": "Gaming Consoles",
+      "brand": "Sony",
+      "image": "https://www.sony.com/electronics/playstation-ps5/console"
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13 Laptop",
+      "description": "The Dell XPS 13 Laptop is a compact and powerful device with a virtually borderless InfinityEdge display, 11th Gen Intel Core processors, and long battery life. Ideal for productivity on the go.",
+      "price": 1099.99,
+      "category": "Computers",
+      "brand": "Dell",
+      "image": "https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9310-laptop/xn9310sflq"
+    },
+    {
+      "id": 5,
+      "name": "Canon EOS R5 Mirrorless Camera",
+      "description": "The Canon EOS R5 Mirrorless Camera is a professional-grade camera with 8K video recording, 45MP full-frame sensor, and advanced autofocus capabilities. Capture stunning images and videos.",
+      "price": 3899.99,
+      "category": "Cameras",
+      "brand": "Canon",
+      "image": "https://shop.usa.canon.com/shop/en/catalog/eos-r5-body"
+    },
+    {
+      "id": 6,
+      "name": "Bose QuietComfort 45 Wireless Headphones",
+      "description": "The Bose QuietComfort 45 Wireless Headphones offer best-in-class noise cancellation, superior sound quality, and all-day comfort. Perfect for immersive listening experiences.",
+      "price": 329.99,
+      "category": "Audio",
+      "brand": "Bose",
+      "image": "https://www.bose.com/en_us/products/headphones/noise_cancelling_headphones/quietcomfort-45.html#v=qc45_black"
+    },
+    {
+      "id": 7,
+      "name": "Microsoft Surface Pro 8",
+      "description": "The Microsoft Surface Pro 8 is a versatile 2-in-1 device with a stunning PixelSense display, powerful Intel Core processors, and all-day battery life. Transform from laptop to tablet in seconds.",
+      "price": 999.99,
+      "category": "Computers",
+      "brand": "Microsoft",
+      "image": "https://www.microsoft.com/en-us/p/surface-pro-8/93v0c7tvkksb"
+    },
+    {
+      "id": 8,
+      "name": "LG OLED C1 4K Smart TV",
+      "description": "The LG OLED C1 4K Smart TV delivers stunning picture quality with OLED technology, AI ThinQ for smart functionality, and Dolby Atmos for immersive sound. Bring the theater experience home.",
+      "price": 2499.99,
+      "category": "Televisions",
+      "brand": "LG",
+      "image": "https://www.lg.com/us/tvs/lg-oled48c1pub-oled-4k-tv"
+    },
+    {
+      "id": 9,
+      "name": "HP Pavilion Gaming Desktop",
+      "description": "The HP Pavilion Gaming Desktop is built for immersive gaming experiences with powerful processors, NVIDIA GeForce graphics, and customizable RGB lighting. Dominate the competition.",
+      "price": 999.99,
+      "category": "Computers",
+      "brand": "HP",
+      "image": "https://www.hp.com/us-en/shop/tech-takes/best-gaming-desktops-from-hp"
+    },
+    {
+      "id": 10,
+      "name": "iPhone 13 Pro Max",
+      "description": "The iPhone 13 Pro Max is Apple's flagship smartphone with a stunning Super Retina XDR display, A15 Bionic chip, and advanced camera system. Capture the world in beautiful detail.",
+      "price": 1099.99,
+      "category": "Mobile Phones",
+      "brand": "Apple",
+      "image": "https://www.apple.com/iphone-13-pro/"
+    },
+    {
+      "id": 11,
+      "name": "Xbox Series X",
+      "description": "The Xbox Series X is Microsoft's next-generation gaming console featuring 4K gaming, high frame rates, and quick load times. Experience immersive gaming like never before.",
+      "price": 499.99,
+      "category": "Gaming Consoles",
+      "brand": "Microsoft",
+      "image": "https://www.xbox.com/en-US/consoles/xbox-series-x"
+    },
+    {
+      "id": 12,
+      "name": "Samsung QN90A Neo QLED 4K Smart TV",
+      "description": "The Samsung QN90A Neo QLED 4K Smart TV delivers breathtaking picture quality with Quantum Dot technology, Object Tracking Sound, and AI-powered 4K upscaling. Elevate your viewing experience.",
+      "price": 2999.99,
+      "category": "Televisions",
+      "brand": "Samsung",
+      "image": "https://www.samsung.com/us/televisions-home-theater/tvs/qled-4k-tvs/85-class-q90a-qled-4k-uhd-smart-tv-2021-qn85qn90aafxza/"
+    },
+    {
+      "id": 13,
+      "name": "Acer Nitro 5 Gaming Laptop",
+      "description": "The Acer Nitro 5 Gaming Laptop is designed for gaming with powerful AMD Ryzen processors, NVIDIA GeForce graphics, and high-refresh-rate displays. Dominate the competition wherever you go.",
+      "price": 799.99,
+      "category": "Computers",
+      "brand": "Acer",
+      "image": "https://www.acer.com/ac/en/US/content/series/nitro5"
+    },
+    {
+      "id": 14,
+      "name": "Google Pixel 6",
+      "description": "The Google Pixel 6 is a flagship smartphone with a stunning 6.4-inch OLED display, advanced camera system, and 5G connectivity. Capture stunning photos and enjoy fast performance.",
+      "price": 699.99,
+      "category": "Mobile Phones",
+      "brand": "Google",
+      "image": "https://store.google.com/us/product/pixel_6"
+    },
+    {
+      "id": 15,
+      "name": "Nintendo Switch",
+      "description": "The Nintendo Switch is a versatile gaming console that can be used as a handheld device or connected to a TV. Play your favorite Nintendo games anytime, anywhere.",
+      "price": 299.99,
+      "category": "Gaming Consoles",
+      "brand": "Nintendo",
+      "image": "https://www.nintendo.com/switch/"
+    },
+    {
+      "id": 16,
+      "name": "Sony BRAVIA XR A90J OLED 4K TV",
+      "description": "The Sony BRAVIA XR A90J OLED 4K TV offers stunning picture quality with XR OLED Contrast Pro, XR Triluminos Pro, and XR Motion Clarity. Experience cinema-grade visuals at home.",
+      "price": 3499.99,
+      "category": "Televisions",
+      "brand": "Sony",
+      "image": "https://www.sony.com/electronics/televisions/a90j-series"
+    },
+    {
+      "id": 17,
+      "name": "Alienware Aurora R12 Gaming Desktop",
+      "description": "The Alienware Aurora R12 Gaming Desktop is engineered for high-performance gaming with 11th Gen Intel Core processors, NVIDIA GeForce graphics, and Alienware Command Center customization.",
+      "price": 1799.99,
+      "category": "Computers",
+      "brand": "Alienware",
+      "image": "https://www.dell.com/en-us/shop/desktop-computers/new-alienware-aurora-gaming-desktop/spd/alienware-aurora-r12-desktop"
+    },
+    {
+      "id": 18,
+      "name": "OnePlus 9 Pro",
+      "description": "The OnePlus 9 Pro is a flagship smartphone with a stunning Fluid AMOLED display, Hasselblad camera system, and fast charging technology. Experience premium performance and design.",
+      "price": 969.99,
+      "category": "Mobile Phones",
+      "brand": "OnePlus",
+      "image": "https://www.oneplus.com/9-pro"
+    },
+    {
+      "id": 19,
+      "name": "PlayStation VR",
+      "description": "PlayStation VR delivers immersive virtual reality gaming experiences on the PlayStation 4 and PlayStation 5 consoles. Step into virtual worlds and enjoy innovative gameplay.",
+      "price": 299.99,
+      "category": "Gaming Consoles",
+      "brand": "Sony",
+      "image": "https://www.playstation.com/en-us/explore/playstation-vr/"
+    },
+    {
+      "id": 20,
+      "name": "TCL 6-Series 4K QLED TV",
+      "description": "The TCL 6-Series 4K QLED TV offers stunning picture quality with Quantum Dot technology, Dolby Vision HDR, and AiPQ Engine for optimized color and contrast. Enjoy a cinematic viewing experience.",
+      "price": 899.99,
+      "category": "Televisions",
+      "brand": "TCL",
+      "image": "https://www.tclusa.com/products/home-theater/6-series"
     }
   ]
 }
