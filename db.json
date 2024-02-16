@@ -7,7 +7,7 @@
       "price": 1499.99,
       "category": "Computers",
       "brand": "Apple",
-      "image": "https://www.apple.com/v/macbook-pro/p/images/overview/hero_mbp__fp2ma9pz62ea_large.jpg"
+      "image": "https://img.pccomponentes.com/articles/25/252994/apple-macbook-pro-intel-core-i9-16gb-1tb-ssd-radeon-pro-5500m-16-plata-7707b717-3207-46b4-97e8-47933908a995.jpg"
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "price": 1099.99,
       "category": "Computers",
       "brand": "Dell",
-      "image": "https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9310-laptop/xn9310sflq"
+      "image": "https://www.backmarket.pt/cdn-cgi/image/format%3Dauto%2Cquality%3D75%2Cwidth%3D1080/https://d2e6ccujb3mkqf.cloudfront.net/1b0a5fe8-fdfa-4232-9b51-f3ce03337066-1_a09d0a98-b919-4f85-a2be-b914f68316d3.jpg"
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
       "price": 999.99,
       "category": "Computers",
       "brand": "Microsoft",
-      "image": "https://www.microsoft.com/en-us/p/surface-pro-8/93v0c7tvkksb"
+      "image": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/Hero-Surface-Pro-8-Carousel-App:VP1-539x440"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "price": 999.99,
       "category": "Computers",
       "brand": "HP",
-      "image": "https://www.hp.com/us-en/shop/tech-takes/best-gaming-desktops-from-hp"
+      "image": "https://cdn.shopify.com/s/files/1/0680/4219/5247/products/hp-86734742-c06426044_099f7b25-913c-4bcb-9a24-282099c3c60e.png?v=1703277423&width=550&height=550&pad_color=ffffff"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "price": 1199.99,
       "category": "Mobile Phones",
       "brand": "Samsung",
-      "image": "https://www.samsung.com/us/images/galaxy-s21/overview/s21ultra_5g_hero_kv.jpg"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdJ4j5cGckdk50McjBErOqASSN5PUTJxiHH93ZaCeLi4e6wAbTSqF_yDYLBhVafd71Co&usqp=CAU"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "price": 1099.99,
       "category": "Mobile Phones",
       "brand": "Apple",
-      "image": "https://www.apple.com/iphone-13-pro/"
+      "image": "https://img.pccomponentes.com/articles/57/578895/1322-apple-iphone-13-pro-max-128gb-grafito-libre.jpg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "price": 699.99,
       "category": "Mobile Phones",
       "brand": "Google",
-      "image": "https://store.google.com/us/product/pixel_6"
+      "image": "https://www.worten.pt/i/0452b00572157c89fc9df672a9f9c17d495dcb17.jpg"
     },
     {
       "id": 8,
@@ -79,7 +79,7 @@
       "price": 499.99,
       "category": "Gaming Consoles",
       "brand": "Sony",
-      "image": "https://www.sony.com/electronics/playstation-ps5/console"
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/ps5-product-thumbnail-01-en-14sep21?$facebook$"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "price": 499.99,
       "category": "Gaming Consoles",
       "brand": "Microsoft",
-      "image": "https://www.xbox.com/en-US/consoles/xbox-series-x"
+      "image": "https://classic.exame.com/wp-content/uploads/2020/03/xbox-series-x-1.jpg?quality=70&strip=info&w=909"
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "price": 299.99,
       "category": "Gaming Consoles",
       "brand": "Nintendo",
-      "image": "https://www.nintendo.com/switch/"
+      "image": "https://mediamarkt.pt/cdn/shop/files/ConsolaNintendoSwitch_VersaoOLED_Branca_bfd8580a-54f3-4fcd-99f0-a914fa397b8a.png?v=1685549032"
     },
     {
       "id": 12,
@@ -106,7 +106,7 @@
       "price": 299.99,
       "category": "Gaming Consoles",
       "brand": "Sony",
-      "image": "https://www.playstation.com/en-us/explore/playstation-vr/"
+      "image": "https://gmedia.playstation.com/is/image/SIEPDC/psvr-product-thumbnail-01-en-14sep21?$facebook$"
     },
     {
       "id": 13,
@@ -115,7 +115,7 @@
       "price": 2499.99,
       "category": "Televisions",
       "brand": "LG",
-      "image": "https://www.lg.com/us/tvs/lg-oled48c1pub-oled-4k-tv"
+      "image": "https://cdn.weasy.io/users/jpdi-rep/catalog/22288115_89453119_1075470204.jpg"
     },
     {
       "id": 14,
@@ -124,7 +124,7 @@
       "price": 2999.99,
       "category": "Televisions",
       "brand": "Samsung",
-      "image": "https://www.samsung.com/us/televisions-home-theater/tvs/qled-4k-tvs/85-class-q90a-qled-4k-uhd-smart-tv-2021-qn85qn90aafxza/"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/pt/qe98qn90aatxxc/gallery/pt-neo-qled-qn90a-392154-392154-qe98qn90aatxxc-532920931?$650_519_PNG$"
     },
     {
       "id": 15,
@@ -133,7 +133,7 @@
       "price": 3499.99,
       "category": "Televisions",
       "brand": "Sony",
-      "image": "https://www.sony.com/electronics/televisions/a90j-series"
+      "image": "https://www.sony.pt/image/cf7d52c94af0e9590042f8ef995434fa?fmt=pjpeg&wid=1014&hei=396&bgcolor=F1F5F9&bgc=F1F5F9"
     },
     {
       "id": 16,
@@ -142,7 +142,7 @@
       "price": 899.99,
       "category": "Televisions",
       "brand": "TCL",
-      "image": "https://www.tclusa.com/products/home-theater/6-series"
+      "image": "https://www.tcl.com/usca/content/dam/tcl/product/home-theater/6-series/super-bowl-screen-fill/R635-NFL-leftangle.png"
     },
     {
       "id": 17,
@@ -151,7 +151,7 @@
       "price": 499.99,
       "category": "Computers",
       "brand": "Acer",
-      "image": "https://www.acer.com/ac/en/US/content/series/aspire5"
+      "image": "https://m.media-amazon.com/images/I/71vvXGmdKWL.jpg"
     },
     {
       "id": 18,
@@ -160,7 +160,7 @@
       "price": 1799.99,
       "category": "Mobile Phones",
       "brand": "Samsung",
-      "image": "https://www.samsung.com/us/smartphones/galaxy-z-fold3-5g/"
+      "image": "https://images-cdn.ubuy.com.sa/633afc6aac9a3b0fab12faab-samsung-galaxy-z-fold-3-5g-f926u-512gb.jpg"
     },
     {
       "id": 19,
@@ -169,7 +169,7 @@
       "price": 399.99,
       "category": "Gaming Consoles",
       "brand": "Sony",
-      "image": "https://www.playstation.com/en-us/ps4/"
+      "image": "https://static.fnac-static.com/multimedia/Images/PT/MC/cc/0e/ac/11275980/1541-3/tsp20190702191226/Sony-PlayStation-4-Pro-1TB-Branco-1000-GB-Wi-Fi.jpg"
     },
     {
       "id": 20,
@@ -178,7 +178,7 @@
       "price": 1199.99,
       "category": "Televisions",
       "brand": "LG",
-      "image": "https://www.lg.com/us/tvs/lg-65nano85una-4k-uhd-tv"
+      "image": "https://media.takealot.com/covers_images/416209ceef5a42688a4bdf06948d4a49/s-pdpxl.file"
     }
   ]
 }
