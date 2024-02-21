@@ -179,6 +179,96 @@
       "category": "Televisions",
       "brand": "LG",
       "image": "https://www.pngall.com/wp-content/uploads/5/Ultra-HD-LED-TV-PNG.png"
+    },
+    {
+      "id": 21,
+      "name": "Bose Noise Cancelling Headphones 700",
+      "description": "Experience immersive sound and superior noise cancellation with Bose Noise Cancelling Headphones 700. Featuring intuitive touch controls and adjustable levels of noise cancellation.",
+      "price": 379.99,
+      "category": "Headphones",
+      "brand": "Bose",
+      "image": "https://assets.bosecreative.com/transform/b67575f1-4059-4a26-8d52-2a3d18efd4cf/noise_cancelling_headphones_700_silo_1_1280_1280"
+    },
+    {
+      "id": 22,
+      "name": "Apple Watch Series 7",
+      "description": "Stay connected and motivated with the Apple Watch Series 7. Featuring a larger Retina display, advanced health tracking, and fast charging capabilities.",
+      "price": 399.99,
+      "category": "Wearables",
+      "brand": "Apple",
+      "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP860/series7-480.png"
+    },
+    {
+      "id": 23,
+      "name": "MSI GS66 Stealth",
+      "description": "The MSI GS66 Stealth is a sleek and powerful gaming laptop built for gamers who demand performance and style. Equipped with the latest Intel Core processor and NVIDIA GeForce RTX graphics, it delivers smooth gaming experiences and stunning visuals. Its slim design, customizable RGB keyboard, and advanced cooling system make it a standout choice for gamers on the move.",
+      "price": 1799.99,
+      "category": "Gaming Laptops",
+      "brand": "MSI",
+      "image": "https://storage-asset.msi.com/global/picture/image/feature/nb/GS66-76/images/GS66-D1.png"
+    },
+    {
+      "id": 24,
+      "name": "ROG Strix Scar 3 Gaming Laptop",
+      "description": "The ROG Strix Scar 3 is a high-performance gaming laptop designed for serious gamers. With its powerful hardware, including the latest Intel Core processor and NVIDIA GeForce graphics, it delivers smooth gameplay and immersive visuals. The sleek design, customizable RGB lighting, and advanced cooling system make it a top choice for gamers seeking both style and performance.",
+      "price": 1499.99,
+      "category": "Gaming Laptops",
+      "brand": "ROG",
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/g731gw_2_1.png"
+    },
+    {
+      "id": 25,
+      "name": "GoPro HERO10 Black",
+      "description": "Capture life's adventures in stunning detail with the GoPro HERO10 Black. Featuring HyperSmooth stabilization, 5.3K video, and improved low-light performance.",
+      "price": 499.99,
+      "category": "Action Cameras",
+      "brand": "GoPro",
+      "image": "https://static.gopro.com/assets/blta2b8522e5372af40/blt17586861646dccde/643ee10d0736ac330839ae69/pdp-h10-image03-1024-2x.png"
+    },
+    {
+      "id": 26,
+      "name": "Sega Genesis Mini",
+      "description": "The Sega Genesis Mini is a compact version of the iconic 16-bit console, pre-loaded with a collection of classic games. Relive the golden age of gaming with beloved titles like Sonic the Hedgehog, Streets of Rage, and Golden Axe. With its nostalgic design and authentic gameplay, the Sega Genesis Mini is a must-have for retro gaming enthusiasts.",
+      "price": 79.99,
+      "category": "Gaming Consoles",
+      "brand": "Sega",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Sega-Genesis-Mod1-Set.png"
+    },
+    {
+      "id": 27,
+      "name": "Fujifilm X-T4 Mirrorless Camera",
+      "description": "Unleash your creativity with the Fujifilm X-T4 Mirrorless Camera. Featuring in-body image stabilization and advanced autofocus, it delivers stunning photos and videos.",
+      "price": 1699.99,
+      "category": "Cameras",
+      "brand": "Fujifilm",
+      "image": "https://www.dpreview.com/files/p/E~products/fujifilm_xt4/shots/798664d4f3074623840fc8f8684608a6.png"
+    },
+    {
+      "id": 28,
+      "name": "Samsung Galaxy Tab S7+",
+      "description": "Enhance productivity and entertainment with the Samsung Galaxy Tab S7+. Featuring a stunning Super AMOLED display, S Pen support, and powerful performance.",
+      "price": 849.99,
+      "category": "Tablets",
+      "brand": "Samsung",
+      "image": "https://images.samsung.com/is/image/samsung/pt-galaxy-tab-s7-plus-wifi-t970-sm-t970nzkaeub-287001462?$650_519_PNG$"
+    },
+    {
+      "id": 29,
+      "name": "Amazon Echo Show 8",
+      "description": "Stay connected and entertained with the Amazon Echo Show 8. it's perfect for your smart home.",
+      "price": 249.99,
+      "category": "Smart Home",
+      "brand": "Amazon",
+      "image": "https://macmagazine.com.br/wp-content/uploads/2023/09/20-dispositivo-echo-show-8-lancamento-3-800x800.png"
+    },
+    {
+      "id": 30,
+      "name": "Acer Predator Helios 300",
+      "description": "The Acer Predator Helios 300 is a formidable gaming laptop designed for gamers seeking powerful performance at an affordable price. Featuring an Intel Core processor and NVIDIA GeForce GTX graphics, it delivers smooth gaming experiences for a wide range of titles. Its sleek design, customizable RGB keyboard, and fast refresh rate display make it a popular choice among budget-conscious gamers.",
+      "price": 1299.99,
+      "category": "Gaming Laptops",
+      "brand": "Acer",
+      "image": "https://itechstore.com.np/_ipx/w_1536&f_png/img/product/2493f5fc-8622-4d17-b3cb-93b0a9791261/acer-predator-helios-300-2022-2.png"
     }
   ],
   "reviews": [
@@ -200,12 +290,12 @@
     {
       "id": 4,
       "message": "This online tech shop has become my go-to for all my gadget needs. Highly recommended.",
-      "rating": 5
+      "rating": 4
     },
     {
       "id": 5,
       "message": "Absolutely fantastic experience shopping here. The quality of the products is outstanding.",
-      "rating": 5
+      "rating": 4
     }
   ]
 }
