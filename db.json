@@ -43,7 +43,7 @@
       "price": 1199.99,
       "category": "Mobile Phones",
       "brand": "Samsung",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXdJ4j5cGckdk50McjBErOqASSN5PUTJxiHH93ZaCeLi4e6wAbTSqF_yDYLBhVafd71Co&usqp=CAU"
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/uk/sm5g998bzkdeub/gallery/uk-galaxy-s21-ultra-5g-g988-485746-sm5g998bzkdeub-539103525?$650_519_PNG$"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "price": 1099.99,
       "category": "Mobile Phones",
       "brand": "Apple",
-      "image": "https://img.pccomponentes.com/articles/57/578895/1322-apple-iphone-13-pro-max-128gb-grafito-libre.jpg"
+      "image": "https://assets.swappie.com/cdn-cgi/image/width=600,height=600,fit=contain,format=auto/swappie-iphone-13-pro-max-graphite-back.png?v=42"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "price": 699.99,
       "category": "Mobile Phones",
       "brand": "Google",
-      "image": "https://www.worten.pt/i/0452b00572157c89fc9df672a9f9c17d495dcb17.jpg"
+      "image": "https://www.dimprice.co.uk/image/cache/catalog/products_2022/google-pixel-6-pro-white-1-1200x1200.png"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "price": 969.99,
       "category": "Mobile Phones",
       "brand": "OnePlus",
-      "image": "https://www.notebookcheck.net/fileadmin/Notebooks/OnePlus/9_Pro/4_zu_3_OnePlus_9_Pro.jpg"
+      "image": "https://oasis.opstatics.com/content/dam/oasis/page/2021/9-series/spec-image/9-pro/Stellar%20Black-gallery..png"
     },
     {
       "id": 9,
@@ -115,7 +115,7 @@
       "price": 2499.99,
       "category": "Televisions",
       "brand": "LG",
-      "image": "https://cdn.weasy.io/users/jpdi-rep/catalog/22288115_89453119_1075470204.jpg"
+      "image": "https://www.lg.com/content/dam/channel/wcms/pt/images/oled-tv/2021/oled-buying-guide/TV-OLED-Buying-Guide-06-Specs-Desktop-A-3.png"
     },
     {
       "id": 14,
@@ -151,7 +151,7 @@
       "price": 499.99,
       "category": "Computers",
       "brand": "Acer",
-      "image": "https://m.media-amazon.com/images/I/71vvXGmdKWL.jpg"
+      "image": "https://www.americanshoppings.com/wp-content/uploads/2021/02/Acer-Aspire-5-A515-52-A515-52G-silver-photogallery-01.png"
     },
     {
       "id": 18,
@@ -160,7 +160,7 @@
       "price": 1799.99,
       "category": "Mobile Phones",
       "brand": "Samsung",
-      "image": "https://images-cdn.ubuy.com.sa/633afc6aac9a3b0fab12faab-samsung-galaxy-z-fold-3-5g-f926u-512gb.jpg"
+      "image": "https://ongpng.com/wp-content/uploads/2023/04/10.Galaxy-Fold-3-1500x1500-1.png"
     },
     {
       "id": 19,
@@ -169,7 +169,7 @@
       "price": 399.99,
       "category": "Gaming Consoles",
       "brand": "Sony",
-      "image": "https://static.fnac-static.com/multimedia/Images/PT/MC/cc/0e/ac/11275980/1541-3/tsp20190702191226/Sony-PlayStation-4-Pro-1TB-Branco-1000-GB-Wi-Fi.jpg"
+      "image": "https://www.pngall.com/wp-content/uploads/13/PlayStation-PNG-Photos.png"
     },
     {
       "id": 20,
@@ -178,7 +178,7 @@
       "price": 1199.99,
       "category": "Televisions",
       "brand": "LG",
-      "image": "https://media.takealot.com/covers_images/416209ceef5a42688a4bdf06948d4a49/s-pdpxl.file"
+      "image": "https://www.pngall.com/wp-content/uploads/5/Ultra-HD-LED-TV-PNG.png"
     }
   ],
   "reviews": [
